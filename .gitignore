@@ -1,0 +1,5 @@
+*.tar.gz
+*.sublime-project
+!wordpress/
+wordpress/*
+!wordpress/wp-content/

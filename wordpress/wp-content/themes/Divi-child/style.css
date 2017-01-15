@@ -1,0 +1,23 @@
+/*
+ *  Theme Name:     Divi Child Theme
+ *  Theme URI:      http://www.elegantthemes.com/gallery/Divi/
+ *  Description:    Divi Child Theme
+ *  Author:         Web Design Playa
+ *  Author URI:     http://www.webdesignplaya.com
+ *  Template:       Divi
+ *   Version:        1.0.0
+ *       
+ * */
+
+.project-thumb {
+	float:left;
+	width:50%;
+}
+.project-content {
+	width:50%;
+	float: right;
+}
+
+ul#top-menu li a{
+	color: black;
+}
